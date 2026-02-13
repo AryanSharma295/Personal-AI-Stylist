@@ -11,5 +11,4 @@ This is a Computer Vision and Generative AI project built as part of my MCA port
 - **Language:** Python
 - **AI/ML:** OpenCV, Scikit-learn, TensorFlow/PyTorch
 - **Generation:** Stable Diffusion (via Hugging Face)
-- **Deployment:** Streamlit / GitHub Pages# Personal-AI-Stylist
-An AI-powered system that analyzes clothing images and recommends outfits based on color theory and trends.
+- **Deployment:** Streamlit / GitHub Pages
